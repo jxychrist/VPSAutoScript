@@ -1,1 +1,1 @@
-# kyut
+# AutoScript for VPS
